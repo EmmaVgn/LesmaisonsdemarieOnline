@@ -1,4 +1,7 @@
 import './bootstrap.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { Alert } from 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/+esm';
+
 /*
  * Welcome to your app's main JavaScript file!
  *
