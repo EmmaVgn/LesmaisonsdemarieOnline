@@ -131,3 +131,17 @@ h1 {
   width: 120px;
   height: auto;
 }
+
+.logo-footer {
+  width: 250px;
+  height: auto;
+  margin: 0 auto;
+  margin-left: 90%;
+}
+
+/*--------------------------------------------------------------
+  # Footer
+  --------------------------------------------------------------*/
+.footer-contact {
+  margin-top: 230px;
+}
